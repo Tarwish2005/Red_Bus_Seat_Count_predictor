@@ -103,7 +103,6 @@ The project uses the following major libraries:
   * xgboost
   * lightgbm
   * catboost
-  * optuna
   * matplotlib
   * seaborn
 
